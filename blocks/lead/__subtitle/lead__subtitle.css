@@ -3,7 +3,6 @@
   font-size: 30px;
   line-height: 36px;
   max-width: 640px;
-  max-height: 72px;
   text-align: center;
   padding: 32px 0 64px 0;
   margin: 0;
@@ -24,6 +23,7 @@
 
 @media screen and (max-width: 320px) {
   .lead__subtitle {
+    max-width: 288px;
     padding: 32px 0 40px 0;
   }
 }
