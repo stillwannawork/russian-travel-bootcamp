@@ -21,7 +21,7 @@
 
 @media screen and (max-width: 600px) {
   .place__text {
-    width: 90%;
+    width: 288px;
     margin: 0 auto;
   } 
 }
