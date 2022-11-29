@@ -28,15 +28,7 @@
 }
 
 .cover__background:hover::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: #2a2c2f;
   opacity: 0.8;
-  z-index: -1;
 }
 
 @media screen and (max-width: 1024px) {
